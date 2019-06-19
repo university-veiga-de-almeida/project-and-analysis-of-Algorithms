@@ -1,5 +1,5 @@
  # INTERSECTION
-**Intersection** is a scholarly work with punctuation.
+**Intersection** is a scholarly work with punctuation, developed with C/C++ language.
 
 # Statement
 Create a program that reads a vector of characters A of size n and another vector of characters B of size m. From these vectors a third vector C of size k must be created with the intersection of A and B (A ∩ B). At the end, vector C must be printed.
