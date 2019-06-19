@@ -39,7 +39,7 @@ O (n log n), if n> m
 O (m log m), if m> n
 ```
 
-# EXAMPLES
+# Examples
 **1)**
 
 ```
